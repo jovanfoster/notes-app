@@ -1,0 +1,5 @@
+.DS_Store   
+*.bak
+*.sqlite3
+development.py
+staging.py
